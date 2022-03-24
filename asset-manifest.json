@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/e-shopping/static/css/main.3be3f73b.chunk.css",
+    "main.js": "/e-shopping/static/js/main.94051a95.chunk.js",
+    "main.js.map": "/e-shopping/static/js/main.94051a95.chunk.js.map",
+    "runtime-main.js": "/e-shopping/static/js/runtime-main.19931151.js",
+    "runtime-main.js.map": "/e-shopping/static/js/runtime-main.19931151.js.map",
+    "static/js/2.d74142f7.chunk.js": "/e-shopping/static/js/2.d74142f7.chunk.js",
+    "static/js/2.d74142f7.chunk.js.map": "/e-shopping/static/js/2.d74142f7.chunk.js.map",
+    "static/js/3.f327f159.chunk.js": "/e-shopping/static/js/3.f327f159.chunk.js",
+    "static/js/3.f327f159.chunk.js.map": "/e-shopping/static/js/3.f327f159.chunk.js.map",
+    "index.html": "/e-shopping/index.html",
+    "static/css/main.3be3f73b.chunk.css.map": "/e-shopping/static/css/main.3be3f73b.chunk.css.map",
+    "static/js/2.d74142f7.chunk.js.LICENSE.txt": "/e-shopping/static/js/2.d74142f7.chunk.js.LICENSE.txt",
+    "static/media/basil.be00474e.jpg": "/e-shopping/static/media/basil.be00474e.jpg",
+    "static/media/cactus.a71c2062.jpg": "/e-shopping/static/media/cactus.a71c2062.jpg",
+    "static/media/calathea.455c33e2.jpg": "/e-shopping/static/media/calathea.455c33e2.jpg",
+    "static/media/lyrata.2e915120.jpg": "/e-shopping/static/media/lyrata.2e915120.jpg",
+    "static/media/mint.b83a3d2e.jpg": "/e-shopping/static/media/mint.b83a3d2e.jpg",
+    "static/media/monstera.6257bc6b.jpg": "/e-shopping/static/media/monstera.6257bc6b.jpg",
+    "static/media/olivier.b2908b40.jpg": "/e-shopping/static/media/olivier.b2908b40.jpg",
+    "static/media/pothos.d72dc0ac.jpg": "/e-shopping/static/media/pothos.d72dc0ac.jpg",
+    "static/media/succulent.f4329849.jpg": "/e-shopping/static/media/succulent.f4329849.jpg",
+    "static/media/sun.a9d8a86f.svg": "/e-shopping/static/media/sun.a9d8a86f.svg",
+    "static/media/water.2f302cf4.svg": "/e-shopping/static/media/water.2f302cf4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19931151.js",
+    "static/js/2.d74142f7.chunk.js",
+    "static/css/main.3be3f73b.chunk.css",
+    "static/js/main.94051a95.chunk.js"
+  ]
+}
